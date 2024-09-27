@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(118, 124, 143);
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+}
+
+footer p {
+text-align: center;
+font-size: 0.6rem;
+margin-top: 0.5rem;
+}
+.bai-jamjuree-extralight {
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
